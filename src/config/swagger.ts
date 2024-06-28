@@ -12,10 +12,10 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:5000', //local URL
+         url: 'https://blogging-app-api-jpux.onrender.com', //deployed URL
       },
       {
-         url: 'https://blogging-app-api-jpux.onrender.com', //deployed URL
+        url: 'http://localhost:5000', //local URL
       },
     ],
     components: {
